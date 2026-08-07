@@ -77,3 +77,4 @@ cd frontend
 npm install
 npm run dev
 ```
+NOTE: please note as of 2/15/2026 to run  PISTON API. YOU WILL NEED TO RUN IT ON YOUR OWN SERVER
